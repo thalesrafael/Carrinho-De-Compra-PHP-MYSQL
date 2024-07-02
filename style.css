@@ -1,0 +1,65 @@
+
+
+ #sup_direito
+{float:right; 
+width:auto; 
+}
+
+
+
+#main-banner {
+    padding: 0;
+    width: 1250px;
+    height: 115px;
+    overflow: hidden;
+    background: #008B8B;
+}
+
+
+#menu li{
+
+width: 300px;
+height: auto;
+background-color:#008B8B;
+display: block;
+margin: 0;
+padding:0;
+width: 360px;
+}
+
+#menu li{
+          list-style: none;
+          display: block;
+          width: 10%;
+          height: auto;
+          border-bottom: 0px solid #fff;
+          color: #fffafa;
+          font-family: helvetica;
+          font-size: 20px;
+          padding: 10px;
+          text-align: center;
+}
+#menu li:hover{
+background: #ff4500;
+width: 266px;
+}
+#menu li{
+-webkit-transition:all .9s ease;
+-moz-transition:all .9s ease;
+-ms-transition:all .9s ease;
+transition:all .9s ease;
+}
+h1{
+font-family: helvetica;
+color: #8fbc8f
+}
+
+
+
+
+
+
+
+
+
+
